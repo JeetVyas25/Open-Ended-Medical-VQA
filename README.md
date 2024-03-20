@@ -1,6 +1,6 @@
 # Open-Ended-VQA
 
-This repository contains an implementation of the paper [Open-Ended Visual Question Answering](https://arxiv.org/pdf/2303.05977.pdf) using smaller models. The project is also implemented as a Kaggle Notebook, which you can find [here](https://www.kaggle.com/code/aaaacash/open-ended-vqa/notebook).
+This repository contains an implementation of the paper [Open-Ended Visual Question Answering](https://arxiv.org/pdf/2303.05977.pdf) using smaller models. 
 
 ## Getting Started
 
