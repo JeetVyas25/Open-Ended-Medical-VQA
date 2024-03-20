@@ -13,7 +13,7 @@ The dataset used for this project is available on Kaggle. You can download it us
 Clone this repository and install the required packages.
 
 ```bash
-git clone https://github.com/Aacashh/Open-Ended-VQA.git
+git clone https://github.com/JeetVyas25/Open-Ended-Medical-VQA
 cd Open-Ended-VQA
 ```
 
